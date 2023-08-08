@@ -1,6 +1,6 @@
 Hola! Mi nombre es Rocio Fernández
 
-<br> ¿Quien soy?
+<br><b>¿Quien soy? </b>
 <br> Soy Programadora Fullstack orientada al diseño Front-end 
 
 <br>¿Que hago?
