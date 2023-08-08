@@ -3,10 +3,10 @@ Hola! Mi nombre es Rocio Fernández
 <br><b>¿Quien soy? </b>
 <br> Soy Programadora Fullstack orientada al diseño Front-end 
 
-<br>¿Que hago?
+<br><b>¿Que hago?</b>
 <br> Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programadora. 
 
-¿A donde me dirijo?
+<b>¿A donde me dirijo?</b>
 <br> Mi objetivo principal es generar un impacto en el mundo de la programacion
 Disfruto mucho de encontrar nuevas perspectivas y soluciones a problemas que creiamos resueltos.
 
