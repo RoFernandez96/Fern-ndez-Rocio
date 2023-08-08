@@ -1,9 +1,9 @@
-<Hx><b>Hola! Mi nombre es Rocio Fernández</b></Hx>
+<H2><b>Hola! Mi nombre es Rocio Fernández</b></H2>
 
 <br><b>¿Quien soy? </b>
 <br> Soy Programadora Fullstack orientada al diseño Front-end 
 
-<br><b>¿Que hago?</b>
+<b>¿Que hago?</b>
 <br> Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programadora. 
 
 <b>¿A donde me dirijo?</b>
@@ -13,7 +13,7 @@
 <b>¿Que tecnologias uso?</b>
 <br> El bootcamp de Henry me permitio adquirir conocimientos y experiencia fundamental para mi futuro. Las principales tecnologias que manejo son:
 
-<br> HTML5
+HTML5
 <br>CSS3
 <br>Javascript
 <br>React.js
@@ -24,4 +24,4 @@
 
 <br><b>Contactame!</b>
 
-<br>correo: roofernandez1996@gmail.com
+correo: roofernandez1996@gmail.com
