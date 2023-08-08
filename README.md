@@ -8,8 +8,7 @@ Hola! Mi nombre es Rocio Fernández
 
 ¿A donde me dirijo?
 <br> Mi objetivo principal es generar un impacto en el mundo de la programacion
-
-<br> Disfruto mucho de encontrar nuevas perspectivas y soluciones a problemas que creiamos resueltos.
+Disfruto mucho de encontrar nuevas perspectivas y soluciones a problemas que creiamos resueltos.
 
 ¿Que tecnologias uso?
 <br> El bootcamp de Henry me permitio adquirir conocimientos y experiencia fundamental para mi futuro. Las principales tecnologias que manejo son:
